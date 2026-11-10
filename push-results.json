@@ -1,0 +1,191 @@
+[
+    {
+        "repo": "PMS-Account",
+        "branch": "feat/signing-password-20261030",
+        "commit": "6868c100e09d07dcc143d889ff925fac36cd04ba",
+        "pushed": true,
+        "remote_commit": "6868c100e09d07dcc143d889ff925fac36cd04ba"
+    },
+    {
+        "repo": "PMS-Accounting",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "f205bcf58e99371ed13325aa0454938aebedc42a",
+        "pushed": true,
+        "remote_commit": "f205bcf58e99371ed13325aa0454938aebedc42a"
+    },
+    {
+        "repo": "PMS-Building",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "713541db4df6747bddb2fe1b8a0f9a21d13d62e7",
+        "pushed": true,
+        "remote_commit": "713541db4df6747bddb2fe1b8a0f9a21d13d62e7"
+    },
+    {
+        "repo": "PMS-Council",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "3f11c0cad2185e0db236c90474962b943c5aed2e",
+        "pushed": true,
+        "remote_commit": "3f11c0cad2185e0db236c90474962b943c5aed2e"
+    },
+    {
+        "repo": "PMS-Workspace",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "5fde21b02e93340293fc3923549e5aa23a5e18df",
+        "pushed": true,
+        "remote_commit": "5fde21b02e93340293fc3923549e5aa23a5e18df"
+    },
+    {
+        "repo": "PMS-DevOps",
+        "branch": "feat/signing-password-20261030",
+        "commit": "c7ddc6fce42acb135bd9f3c7370b801cfbbc5d10",
+        "pushed": true,
+        "remote_commit": "c7ddc6fce42acb135bd9f3c7370b801cfbbc5d10"
+    },
+    {
+        "repo": "PMS-HRM",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "63a56d78184244a9efa6bb70e48df1288443dd03",
+        "pushed": true,
+        "remote_commit": "63a56d78184244a9efa6bb70e48df1288443dd03"
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "041a1a2da8a0567f188cc600c3de9d24103c3491",
+        "pushed": true,
+        "remote_commit": "041a1a2da8a0567f188cc600c3de9d24103c3491"
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "e0b518477bc940f53df3c411eff40730da452366",
+        "pushed": true,
+        "remote_commit": "e0b518477bc940f53df3c411eff40730da452366"
+    },
+    {
+        "repo": "PMS-Marketing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "26cf52a5f5138c51487cc00affe565e4b70997c7",
+        "pushed": true,
+        "remote_commit": "26cf52a5f5138c51487cc00affe565e4b70997c7"
+    },
+    {
+        "repo": "PMS-Producing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "2f881ece4f403acc2d132d57cf0b1aaa70917116",
+        "pushed": true,
+        "remote_commit": "2f881ece4f403acc2d132d57cf0b1aaa70917116"
+    },
+    {
+        "repo": "PMS-Store",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "9ac554590f9154b05a3eeb3410a9cf40a71abd33",
+        "pushed": true,
+        "remote_commit": "9ac554590f9154b05a3eeb3410a9cf40a71abd33"
+    },
+    {
+        "repo": "PMS-Insight",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "7cbe55e6aabf3cd3bef8912f9fd99f2f63e5c9f9",
+        "pushed": true,
+        "remote_commit": "7cbe55e6aabf3cd3bef8912f9fd99f2f63e5c9f9"
+    },
+    {
+        "repo": "PMS-Mailing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "fe5478450f47fb8b21039c00faf1f38c50614dc1",
+        "pushed": true,
+        "remote_commit": "fe5478450f47fb8b21039c00faf1f38c50614dc1"
+    },
+    {
+        "repo": "PMS-Messenger",
+        "branch": "main",
+        "commit": "293efd9d0bc1e367be8f9e957aa07dc107b8330d",
+        "pushed": true,
+        "remote_commit": "293efd9d0bc1e367be8f9e957aa07dc107b8330d"
+    },
+    {
+        "repo": "PMS-Go",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "cda722170fe071971dc7466f277ed4341784c0ea",
+        "pushed": true,
+        "remote_commit": "cda722170fe071971dc7466f277ed4341784c0ea"
+    },
+    {
+        "repo": "PMS-Premium",
+        "branch": "main",
+        "commit": "f6ded12d49b0eefe448a43fab528350392323305",
+        "pushed": true,
+        "remote_commit": "f6ded12d49b0eefe448a43fab528350392323305"
+    },
+    {
+        "repo": "PMS-Home",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "1b9651ea9733531e5a0d31e71a401729653e4a42",
+        "pushed": true,
+        "remote_commit": "1b9651ea9733531e5a0d31e71a401729653e4a42"
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "branch": "master",
+        "commit": "e38aa3f786d292a42014c67748b4edd873b8e5c4",
+        "pushed": true,
+        "remote_commit": "e38aa3f786d292a42014c67748b4edd873b8e5c4"
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "branch": "main",
+        "commit": "8339ea30ea0067ca2bb95b9bf6d71d2c0478bcb2",
+        "pushed": true,
+        "remote_commit": "8339ea30ea0067ca2bb95b9bf6d71d2c0478bcb2"
+    },
+    {
+        "repo": "PMS-Storage",
+        "branch": "main",
+        "commit": "72a7d30128aa9fa8b55753cf2e95596bb6eea7ff",
+        "pushed": true,
+        "remote_commit": "72a7d30128aa9fa8b55753cf2e95596bb6eea7ff"
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "branch": "master",
+        "commit": "f6a09961b13624fcda79d66e42a2c9a32e1f282e",
+        "pushed": true,
+        "remote_commit": "f6a09961b13624fcda79d66e42a2c9a32e1f282e"
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "branch": "master",
+        "commit": "ac94f97c300facc45d50ab5a5800447b1d6f080e",
+        "pushed": true,
+        "remote_commit": "ac94f97c300facc45d50ab5a5800447b1d6f080e"
+    },
+    {
+        "repo": "PMS-Mailer",
+        "branch": "master",
+        "commit": "0b31fb15972646d58849fb0582717d6ad518784c",
+        "pushed": true,
+        "remote_commit": "0b31fb15972646d58849fb0582717d6ad518784c"
+    },
+    {
+        "repo": "PMS-Relay",
+        "branch": "main",
+        "commit": "df3888a3b1f1fd19dc90e7990be68776aa8b1cc1",
+        "pushed": true,
+        "remote_commit": "df3888a3b1f1fd19dc90e7990be68776aa8b1cc1"
+    },
+    {
+        "repo": "PMS-Static",
+        "branch": "feat/vm-image-catalog-20261109",
+        "commit": "a9390147548374c2e2d94c531ea5ba550c859461",
+        "pushed": true,
+        "remote_commit": "a9390147548374c2e2d94c531ea5ba550c859461"
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "branch": "master",
+        "commit": "647037f9d384bed06bc18c77e9acf5dc6c113747",
+        "pushed": true,
+        "remote_commit": "647037f9d384bed06bc18c77e9acf5dc6c113747"
+    }
+]

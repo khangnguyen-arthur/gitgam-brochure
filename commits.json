@@ -1,0 +1,434 @@
+[
+    {
+        "repo": "PMS-Account",
+        "branch": "feat/signing-password-20261030",
+        "commit": "6868c100e09d07dcc143d889ff925fac36cd04ba",
+        "parent": "3f589cfa9668a1a40f6b2fcd178dcc0a67acda96",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Accounting",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "f205bcf58e99371ed13325aa0454938aebedc42a",
+        "parent": "be46831cdf2a266aa57f5f6d5e4c5af261cc934d",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Building",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "713541db4df6747bddb2fe1b8a0f9a21d13d62e7",
+        "parent": "83bbba8f433544443c5758e016124b759bd397a9",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Council",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "3f11c0cad2185e0db236c90474962b943c5aed2e",
+        "parent": "6812f736d4fcc0dc4e27b13f9187d6fe0fa02848",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Workspace",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "5fde21b02e93340293fc3923549e5aa23a5e18df",
+        "parent": "31369380ea2f286837ad5c24d1bfe856df190699",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-DevOps",
+        "branch": "feat/signing-password-20261030",
+        "commit": "c7ddc6fce42acb135bd9f3c7370b801cfbbc5d10",
+        "parent": "cc18dae9b74d9866a3ef0462c5d6846268b1be0e",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-HRM",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "63a56d78184244a9efa6bb70e48df1288443dd03",
+        "parent": "73cb79d43fec6290d06be6a8434d6022f3c94bd5",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "041a1a2da8a0567f188cc600c3de9d24103c3491",
+        "parent": "0ad2e65a37e6349965ea59986ef602074252474e",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "e0b518477bc940f53df3c411eff40730da452366",
+        "parent": "5b6eb147f4080bd80a3fe7c465ce5c1ec7bd0080",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Marketing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "26cf52a5f5138c51487cc00affe565e4b70997c7",
+        "parent": "3c1991b4ef7b87f7f18f794c42e1860f9beabc7d",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Producing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "2f881ece4f403acc2d132d57cf0b1aaa70917116",
+        "parent": "fd30a27b1cce6ab9581d8e79e788ffeadae66475",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Store",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "9ac554590f9154b05a3eeb3410a9cf40a71abd33",
+        "parent": "5b853211bf41251934949853e7b7dac7c4c0195e",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Insight",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "7cbe55e6aabf3cd3bef8912f9fd99f2f63e5c9f9",
+        "parent": "891af831347daf8f3e2e52528358de6b8effa932",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Mailing",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "fe5478450f47fb8b21039c00faf1f38c50614dc1",
+        "parent": "7ffda12e606fece3bdea60162dfc3584f2e9bd3f",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Messenger",
+        "branch": "main",
+        "commit": "293efd9d0bc1e367be8f9e957aa07dc107b8330d",
+        "parent": "aab23fa677d349d370ddd8e6603cde4d715cf960",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Go",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "cda722170fe071971dc7466f277ed4341784c0ea",
+        "parent": "0a52882a4ef480ddef28551ff7d11e1f57814b71",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Premium",
+        "branch": "main",
+        "commit": "f6ded12d49b0eefe448a43fab528350392323305",
+        "parent": "da2d78352ba844f25fbc4a5dd5dfb2643e673067",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Home",
+        "branch": "fix/account-profile-link-20261030",
+        "commit": "1b9651ea9733531e5a0d31e71a401729653e4a42",
+        "parent": "4ca03577d1b91832698cf1f110ce30459dbebc15",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "branch": "master",
+        "commit": "e38aa3f786d292a42014c67748b4edd873b8e5c4",
+        "parent": "73b6e69325f2f6c3510e7406a6f0217eac16751e",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "branch": "main",
+        "commit": "8339ea30ea0067ca2bb95b9bf6d71d2c0478bcb2",
+        "parent": "3cdef0e57ca87c05638ce21b61539822a0d34fe2",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Storage",
+        "branch": "main",
+        "commit": "72a7d30128aa9fa8b55753cf2e95596bb6eea7ff",
+        "parent": "50e7674c347451b39d0bc090c636952a8171bfdf",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "branch": "master",
+        "commit": "f6a09961b13624fcda79d66e42a2c9a32e1f282e",
+        "parent": "f79d5db5e615466ab4e8db74658f8ac1926fccfe",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "branch": "master",
+        "commit": "ac94f97c300facc45d50ab5a5800447b1d6f080e",
+        "parent": "7908bafad39047444b26f177f3c0cefe77ade154",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Mailer",
+        "branch": "master",
+        "commit": "0b31fb15972646d58849fb0582717d6ad518784c",
+        "parent": "bdc131e5b10c52f2e0d19e8cbf4be5f2237e7a43",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Relay",
+        "branch": "main",
+        "commit": "df3888a3b1f1fd19dc90e7990be68776aa8b1cc1",
+        "parent": "738dbedf0039961881096cecfb0aa756e26459ff",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-Static",
+        "branch": "feat/vm-image-catalog-20261109",
+        "commit": "a9390147548374c2e2d94c531ea5ba550c859461",
+        "parent": "dbbfc709709efaf7261925669e1b87a9ef576650",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "branch": "master",
+        "commit": "647037f9d384bed06bc18c77e9acf5dc6c113747",
+        "parent": "e843b33023c157aedd01b667467f78a81a5c49c5",
+        "paths": [
+            "brochure/README.txt",
+            "brochure/assets/LICENSE.txt",
+            "brochure/assets/illustration.svg",
+            "brochure/assets/product.svg",
+            "brochure/en.html",
+            "brochure/index.html",
+            "brochure/styles.css"
+        ],
+        "committed": true
+    }
+]

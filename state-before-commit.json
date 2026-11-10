@@ -1,0 +1,353 @@
+[
+    {
+        "repo": "PMS-Account",
+        "status_before": " M api/src/config/premium.js\n",
+        "brochure_files": {
+            "brochure/index.html": "ec135f6a66514646c29a3b78b9771475e1d65856424b3ca2bdd61e0bc08b8e5a",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "03ea1192d199040adcb1cf159c96435b522e9d2ccb8ee1a0144e59229ae080d9",
+            "brochure/README.txt": "e6c5a930528fd7dcc071216cb3ec28e416fe514bbf3111465fe4d1a05ac022c9",
+            "brochure/assets/illustration.svg": "7a893753b0cc16cd2063dcea3a857c609e17900a9a0aaa0e6ec294d04ce79af4",
+            "brochure/assets/product.svg": "831069280c4e9f0c0ebc98f14c6a4e1feb0bb24af465c86f8aad4ab7c0c14817",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Accounting",
+        "status_before": " M api/src/config/premium.js\n",
+        "brochure_files": {
+            "brochure/index.html": "369ff030b09dfd1c13372e3a8fbd9adcbd6610a45f21729abc5fbb94738d0848",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "140b624b2e92f4a04fcbaf5d559a8f43eb90f2d9f35e647a655346a5b034430d",
+            "brochure/README.txt": "17693b0080f80123b30810dfd103f7626981cebda26f9d0007e0c0009c4cf2fd",
+            "brochure/assets/illustration.svg": "da2efcff07859d9a935c78754912027a5b731401d7b5fe5e6aa59b7dca1bbd19",
+            "brochure/assets/product.svg": "3e987efe4adff440e8679d8fd9b6fe51d01ae49018dba9a93ae0d72aa5f6dd7b",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Building",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "b24157d86c4d00d538621585d9fce114bb4c1d3b91b800bdb368ac917d616eb5",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "4c09e5d4b6f3254fa27816c89e353f7d991f619f4eaf3815d603e67df47e863f",
+            "brochure/README.txt": "81fc27e58e3a86788e5469f65b1062bd1221ceaf1a3d6434ffc3cc9b76ddf127",
+            "brochure/assets/illustration.svg": "fd4a9b0881778b9280e0205c8b7ecc5d3d8588331a21056ca71273a24f56361e",
+            "brochure/assets/product.svg": "ce719c1706a707e38e99efadc21c31bdae9ce564feb17230bf4da26ad98f385c",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Council",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "47061b8ba5cf5ae31bacf4257db9074eaba54eebdf15996dc6d13ae4e463ffcc",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "5379c977090450fb18ad4e32a64e0ebfd4fb311a267d79426b890e4f48c93ca1",
+            "brochure/README.txt": "561cf3fe186ce42c2fdaca55c86358274e352e5ca05b5e220f7d52c689edae51",
+            "brochure/assets/illustration.svg": "cc97d8460705c3a175daf054a2aa35a302ab0dacd7b47b0ddb1910714f17ba97",
+            "brochure/assets/product.svg": "40a46b48b1abcf3d0dad21163c9c70a5351b131c4049eb36e690c2867284b375",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Workspace",
+        "status_before": " M web/src/pages/LowCodeIDE/Signal/constant.js\n",
+        "brochure_files": {
+            "brochure/index.html": "92eecbc8b76e914d7b30b171ad1f75fe1dc85e699b0737951b43dd9c2b1023e5",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "89a7ba848d72516029643c7c538199ae060a27fca86e4b9c4ee95fb1d0fe0484",
+            "brochure/README.txt": "58681e44fabc10037e83e3cf70a6e8f0274c8144be772cd0446a770c4d1d32a9",
+            "brochure/assets/illustration.svg": "79ead7a62120b789e9e3536697b50708e104d5cc031c7dacd7c30194c2fb2229",
+            "brochure/assets/product.svg": "7c54ad5736fd73cef78c7fccaff70a4d16f2dfb79a3d1147bc162cd965b2bff6",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-DevOps",
+        "status_before": " M api/src/route/browse.js\n M web/core\n M web/src/pages/SourceDetail/User/index.jsx\n",
+        "brochure_files": {
+            "brochure/index.html": "b438b7b723ef2a6eb6a52e31549cc1af3b360dd31252447ea3b17a9f9b781324",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "760b529b5e77447ae8ad1cacf245bbaaa3dc3e576955524b18acf85fee5f982f",
+            "brochure/README.txt": "9eed95815cbf43db469475b5193baa5a0ee57d75bf738d01a7a37b3501ddf01f",
+            "brochure/assets/illustration.svg": "c1620109241b5a913955cfffcc9b3f7d1ed0dc710e3e45dba881ab5674320d1d",
+            "brochure/assets/product.svg": "16b52e5a670b955615a99b7f6e8cacd34b8c7e1c2301947b793e97463131c2f2",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-HRM",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "7e8002f3ad3ce045758e43c1aa2656cb1da9d65f025ad5ef2300d9f6ff902062",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "a875e20cca51faad6b9969581811055cb2430df6606181dc9e56c9bac9d497b5",
+            "brochure/README.txt": "cbe6ad6997accbc3c55c65a7b6678ec7e5506976ce4a33960740ad52ea4e359f",
+            "brochure/assets/illustration.svg": "c19737b1995a285f0ea51370964fd5e38e407fa7eb7b24bebf9120b2dcd37fed",
+            "brochure/assets/product.svg": "0522331ba48c0fe23a4131fd10914b1e0c5193d1a5472a9886267ed0c39d9a18",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "b3a6783aa6b2ecf127039e2012c69a557456c1182a24bd0a063794fd392f87b4",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "b587cc866c506aa919a34d16a0373ef23b516133f24c4b11f3a98ffc227abd97",
+            "brochure/README.txt": "5dce6d27b74bd092cad22f2d7e6629c9b996776cb2f22b7139b763e4c52100f7",
+            "brochure/assets/illustration.svg": "637676d3f5a06960b9db8cbcd4b7449e14d6793d70848b663b89dbdcd3993298",
+            "brochure/assets/product.svg": "88d245f7c957df614958e5fe9ddadb21ecde736b2dd30523f10851df0bbc35b6",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "4e19bfaf1e7d5cc96329b8ff80aa7bec968373201453978298a72c2159b939cf",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "c756a926a665b719173fdcd5af48d13d0b5e900a95a95d495497650ac4759162",
+            "brochure/README.txt": "ead2359f3a110c4653e2d8c40854c82ff385c489d24ce06224d583e16d22709f",
+            "brochure/assets/illustration.svg": "b3e37916490de32d5312843918fa8705917cb93cf8e1e63328195bfb449fd084",
+            "brochure/assets/product.svg": "c403a669804beef5b7026ce460ac53ab7179a742f2e278433e32d68a3f6cd90b",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Marketing",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "792ca072c64b1c317d2b21ffb98436e520dbef5e803f237397e46395c19d2fec",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "a67a3ad0213d473dd88be27df8190ce8e2ec1d98ef41cef69f82a4ac2a7116f9",
+            "brochure/README.txt": "48250644d3fe0a7100598a9bf9693bbf9b42708faa50f55a4789d97b44c0eb5c",
+            "brochure/assets/illustration.svg": "f27f5a912534e9caac3b134be18e850b015a356d28cb11c09cb6e065816df4fe",
+            "brochure/assets/product.svg": "bb74fd44eb810fd059a01c082fc809c9be59b4c502800c780bf3aa52c28fed1f",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Producing",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "8b742f766137b25f426aab10037473aea835a408b02664899dc40fcbe10c3f3d",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "c83dd9f668b432452799acc855a5a49002d762bbe36b0b033b538a5019d1e171",
+            "brochure/README.txt": "eff932b266c74f7a7f5c5562baff4d24908097b8fd78c0818352e4b8b42151f3",
+            "brochure/assets/illustration.svg": "6d399b5581337a32d5d88f99dddf8b723c251fe330aa25f51484d79e9455d0ee",
+            "brochure/assets/product.svg": "80374f47a91bdeeb2ad223fee1796f89c292494abd298f84ba461578886ef103",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Store",
+        "status_before": " M api/src/config/premium.js\n D testcase/login/node_modules\n M testcase/login/package-lock.json\n M testcase/login/package.json\n",
+        "brochure_files": {
+            "brochure/index.html": "5cbddea5313e3874836bd7a683cfe412991ce3bcc6440a04f4741e7ae032ca0b",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "7379725a2df034e57b5d14b3d141bc3d01555677fc94c58c5c27e7e605115247",
+            "brochure/README.txt": "91ba90ceeaf35fc1e6ab2b75aa2285673019ac7de2df18da62ed766f3f60bdbc",
+            "brochure/assets/illustration.svg": "191e59a715adde8d9437a99cde3bcbe4233e78204dde9672d23438d6c49a9f36",
+            "brochure/assets/product.svg": "f6bf2db3e45c8302f48c60e42318824de2b524e4c3ae254917e2b3abaa3fd77a",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Insight",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "bead188ff8e98df240884b723c88ada816569eaf61b681b5c6639097ea5b1e7a",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "a343e208ee1ffb54a6f7d1dc1ce41ef808653daa8a4421e5304cff6672c0592c",
+            "brochure/README.txt": "9a75bd1662b001b77c410fa3a9d0276691000ad2c77212d5155947886ea435dc",
+            "brochure/assets/illustration.svg": "600e90386a42c2d20a3bc41fd32dd2fd07c88691bf4a34f7635461ca5ae1e718",
+            "brochure/assets/product.svg": "40a46b48b1abcf3d0dad21163c9c70a5351b131c4049eb36e690c2867284b375",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Mailing",
+        "status_before": " M api/src/utils/mailingAdmin.js\n M testcase/mail-preview/README.txt\n M testcase/mail-preview/entry.jsx\n M testcase/mail-preview/fixture.js\n M testcase/mail-preview/preview.cy.js\n M web/src/pages/Mail/components/MailServer.jsx\n M web/src/pages/Mail/components/ThreadReader.jsx\n M web/src/pages/Mail/styles.scss\n",
+        "brochure_files": {
+            "brochure/index.html": "8c5f0c8096a880829494d450131a1ae9c6130b5b4c76a332c7429780aa832cd1",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "6306e3d0fa9a8581d5bf70ac2868fa1571311e08c587194954177194cd06e816",
+            "brochure/README.txt": "9c95d3c32a045164c702b54b8b8705f905905c5c7b81334fb7a88ed5a3674b6d",
+            "brochure/assets/illustration.svg": "b89e95ce6626a3bd5fbb8a5a9a94fca0d1c51c8c4d3c40998df1f93f375ed423",
+            "brochure/assets/product.svg": "f273296ff6f26ef2179a5afefd8e17ee96e532a09cac6b6b7f76d171f9517c1d",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Messenger",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "6e52d1c2598bc11ded16c5cf6e1584d7c403188fba1e27342eeb7bc206d97388",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "2f6248f288da018f17a441d185aa47c347e13d7f08ba46c915732663655b32ee",
+            "brochure/README.txt": "9d71575ca51566212ce498186883afedadab52699f7cba74619194c5fa457fc2",
+            "brochure/assets/illustration.svg": "ffd0e364a9bb7af7e2fb7533f8c6dc2ebfac971da4e7ce4888a605b60d6220ab",
+            "brochure/assets/product.svg": "769d24d18b3333bd2735a0028e8cb83696be1bf19ff28656c5d44de7b887cdcb",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Go",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "0c60802dbb8255eb3ce2a79b0d076856976a3a9318b459343d01489744ca5c3b",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "553569bbc39758936a017f3aa98c3b56d85a103b628f46090277a996537fa2f1",
+            "brochure/README.txt": "30f84d4a438d5c099543819f1ac749b22722235ca141f60f9902eeb0e22a6aa1",
+            "brochure/assets/illustration.svg": "d49845432fb9114d0d06e76d3acf8cf655b62f75fe7ff03c59582119f693d200",
+            "brochure/assets/product.svg": "307fc00acda8164b6bae77ebbae6abac7d517a841e504edb122d624e7c43b89c",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Premium",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "0bd2368812e341e571944d1be43d689dde08ba1f432f9a5b6c282d4b17475bb2",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "4cd7c1f91262a36550324be799ce2cad6af2717dafcd095659af36750e83197f",
+            "brochure/README.txt": "ba3fd966b503e830b705373d8de52e9e5e0d7f8510c10fce78d9098e51189797",
+            "brochure/assets/illustration.svg": "72fd7f862b992fc73e69f264061221db3eec439ea470cbc74501376f03839c68",
+            "brochure/assets/product.svg": "1ef8dfda98b2b0fc21107b49ff479d5ef88e56558180f41e55438ab7d6655f4f",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Home",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "1397fa2bc672cd886a2dc754a3de24fad4b550ed4a6a46dbc17fd8f0f9f2d495",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "76213a99a7c98cbe703f2891bcffde280f169e30a12b6dafd2fec985a91d76ed",
+            "brochure/README.txt": "3f52420b3edee052d2a1e3dfd3b2647614e5a1a915b5dcb5737f74482d9207e9",
+            "brochure/assets/illustration.svg": "d271947f37f4a60e7191c6d6159f638ab4236131d2beee11b621c26eaa203031",
+            "brochure/assets/product.svg": "5054ea4ed3abd38a82c83e187f50b9f1e2e1984b2bf71aa075cd1b338f62c345",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "2975b7d99989a26356ea1de307b250be96c62cd9fc562ce7fbe14d52bbc0c69b",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "6e78c72e45017e7ec4750df4a0abb76fccf5c6de56e16a9d8f75c8d5a2eaf9a8",
+            "brochure/README.txt": "fac46ce9855fcc2d56d05d8418feb6c8e456f9db54063e4da9e8185ce1c0433f",
+            "brochure/assets/illustration.svg": "57f7fb4614ce45e8ca70046408404e6ef64e751538cc123d6c146ab728c1c104",
+            "brochure/assets/product.svg": "1ef8dfda98b2b0fc21107b49ff479d5ef88e56558180f41e55438ab7d6655f4f",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "status_before": " M .fvm/flutter_sdk\n M .fvm/fvm_config.json\n M .fvmrc\n M .vscode/settings.json\n M README.md\n M analysis_options.yaml\n M android/.gitignore\n D android/app/build.gradle\n M android/app/build.gradle.kts\n D android/build.gradle\n M android/gradle.properties\n M android/gradle/wrapper/gradle-wrapper.properties\n D android/settings.gradle\n M android/settings.gradle.kts\n M ios/Flutter/AppFrameworkInfo.plist\n M ios/Podfile.lock\n M ios/Runner.xcodeproj/project.pbxproj\n M lib/localization/app_localizations.dart\n M lib/localization/app_localizations_en.dart\n M lib/mixins/dialog_widget.dart\n M lib/page/home/cubit/home_state.dart\n M lib/page/home/ui/home_page.dart\n M lib/services/notification_service.dart\n M lib/shared_blocs/notification/notification_state.dart\n M linux/flutter/generated_plugin_registrant.cc\n M linux/flutter/generated_plugins.cmake\n M macos/Flutter/GeneratedPluginRegistrant.swift\n M pubspec.lock\n M pubspec.yaml\n M windows/flutter/generated_plugins.cmake\n",
+        "brochure_files": {
+            "brochure/index.html": "717a6d7a58e4c397fceb34b8c38fa919a494cfca468583c4a8e46555abddfe2f",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "4c06c16866d5edf7def9318e84154e89716d9db99a032b820dcf526d2686566f",
+            "brochure/README.txt": "e1d822937fbda6b59982f01deb82bc329d8ed14e781f4f947587ba14ab897fa1",
+            "brochure/assets/illustration.svg": "3c6a07a5a62c8f3da167e2fcdfd68c10e22379dfe2ac6cda1862a7edcd6674fc",
+            "brochure/assets/product.svg": "40a46b48b1abcf3d0dad21163c9c70a5351b131c4049eb36e690c2867284b375",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Storage",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "b8851d4dfc774b5169f543fbf8e4db52c1bfade839d91bb29a4e5f66c0d500c1",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "67f8a0b6eadd3124a14a880bf4125194240893015de867056240b02b00c200b9",
+            "brochure/README.txt": "d20c1d76224691e0c12908c4059b1ec0e3a5a9c4b096fa83539dcb6b41826495",
+            "brochure/assets/illustration.svg": "0a1709509aaf4e4113b47ef44e7517742a619dde42631f7383177518912d483e",
+            "brochure/assets/product.svg": "9431d442453cbf8dd29a26ce69728eda151527130a677f5063529be7e96cf47d",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "8896ba0049c621eb2e436dbb8cb5cb0233d91678c505c4b619d2fb9b80e3f27c",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "d3d0da3d1a5fb42f54bdf266ac5dbffc1cd27a29fae9caf5926b2ada128f039a",
+            "brochure/README.txt": "e2f5975d80099f658779390dd5ec18aa26e94f5d7a23e2eb0680f1bb7ea3ab19",
+            "brochure/assets/illustration.svg": "7a19a41bc37a5ba66d698f4fb6f27efb7307dfe198cd845ed5065dae15021589",
+            "brochure/assets/product.svg": "1ef8dfda98b2b0fc21107b49ff479d5ef88e56558180f41e55438ab7d6655f4f",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "6e24c9e9bad2dc2f42de363935b3a8cf250be330c2c085791a95d752f9d5df23",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "b9c7a1e74567f44008fc45bdfc8a6a02f4b76035f17f177792a6acdc69222b3e",
+            "brochure/README.txt": "39692a7e651a845d1d693f89e87586707ec88b27d4e44cdef63deaac19b8602b",
+            "brochure/assets/illustration.svg": "a13aae60b3d7856d7405970c172decf1124a9c7ee8e2b56ccdd82b316de76079",
+            "brochure/assets/product.svg": "9431d442453cbf8dd29a26ce69728eda151527130a677f5063529be7e96cf47d",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Mailer",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "abf6e9d608d1eab011f646695a0633c68bbe1390e162846b83a5b18a6dd86cc3",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "da58776e296151b6b906cb08867815f89d23d119a5499a55befe295dec17ebf4",
+            "brochure/README.txt": "4e791b69fc258c09dc42eb8c1ed3e04ab84a59a4f2340b60152bd88e340099d0",
+            "brochure/assets/illustration.svg": "a412d2c94a72ab90fb4140c639c6013553b81ce1cb71e7d65c3d525dc4488f95",
+            "brochure/assets/product.svg": "307fc00acda8164b6bae77ebbae6abac7d517a841e504edb122d624e7c43b89c",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Relay",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "94c0d8aa5fb72cda243819f2bbd6197d676bc493f97e15396b29e78aa17721fb",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "da19746764351c374803ec4e06e79cc84596a94acbec14ee7825be23bb4c31f7",
+            "brochure/README.txt": "b8498f8efec1baa08d8e648bb204d1b3adf46925504c8a069123757470f34845",
+            "brochure/assets/illustration.svg": "8b2044749c27dc560707fb1c772325385732cb075e9ec6b701a25dfcfce7f0f6",
+            "brochure/assets/product.svg": "1ef8dfda98b2b0fc21107b49ff479d5ef88e56558180f41e55438ab7d6655f4f",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-Static",
+        "status_before": "",
+        "brochure_files": {
+            "brochure/index.html": "5ace30bb895467062ebb9214dbc85bf0f11092460dee1e8063b1dd09a0c79e79",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "53e629e2175ed44de190cdb45ae9ece51ed06ecc5ad42e788da0b1e6008e0906",
+            "brochure/README.txt": "d626c0a57864dc75fc5ad8fa062144cf617be46820129dd061c485303e6ff027",
+            "brochure/assets/illustration.svg": "d122b04d9615c29b2c3d7d833f57c0ed59a8a5871052a20bf633a493e6e189c0",
+            "brochure/assets/product.svg": "40a46b48b1abcf3d0dad21163c9c70a5351b131c4049eb36e690c2867284b375",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "status_before": " M resources/pms-gateway/premium-config.js\n",
+        "brochure_files": {
+            "brochure/index.html": "023a86a78fa0a254c7e85ee017c45cd26fea7c07335c192af3779645a0258221",
+            "brochure/styles.css": "871f244abf2dd438bc55f53027332890729de22b616d888791f55859dce9a8cc",
+            "brochure/en.html": "a6e38e6dbd1815f6d3b65a8ace70ceeebcc6dd2fe09164d24e2b0197c400fed5",
+            "brochure/README.txt": "6480ab5df7c4764c1093523763534765390c7a093b52e03641646fb0f078108d",
+            "brochure/assets/illustration.svg": "ec176e1826a43e226480bc45f0dc2203a019df0e77303f6047231c692c9e89e1",
+            "brochure/assets/product.svg": "9431d442453cbf8dd29a26ce69728eda151527130a677f5063529be7e96cf47d",
+            "brochure/assets/LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+        }
+    }
+]

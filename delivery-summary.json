@@ -1,0 +1,26 @@
+{
+    "products": 27,
+    "languages": [
+        "vi",
+        "en"
+    ],
+    "html_documents": 54,
+    "files_per_repository": 7,
+    "committed_repositories": 27,
+    "pushed_and_remote_verified": 27,
+    "browser_checks_passed": 162,
+    "render_screenshots": 108,
+    "widths_tested": [
+        1280,
+        390,
+        320
+    ],
+    "audience": "Businesses and teams",
+    "delivery_options": [
+        "GitGam Cloud",
+        "On-premises on customer infrastructure"
+    ],
+    "pdf_exported": false,
+    "deployed": false,
+    "scope": "Brochure documentation only; no application or Core code changes."
+}

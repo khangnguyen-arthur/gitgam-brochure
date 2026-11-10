@@ -1,0 +1,272 @@
+[
+    {
+        "repo": "PMS-Account",
+        "locale": "vi",
+        "word_count": 484
+    },
+    {
+        "repo": "PMS-Account",
+        "locale": "en",
+        "word_count": 354
+    },
+    {
+        "repo": "PMS-Accounting",
+        "locale": "vi",
+        "word_count": 493
+    },
+    {
+        "repo": "PMS-Accounting",
+        "locale": "en",
+        "word_count": 344
+    },
+    {
+        "repo": "PMS-Building",
+        "locale": "vi",
+        "word_count": 485
+    },
+    {
+        "repo": "PMS-Building",
+        "locale": "en",
+        "word_count": 342
+    },
+    {
+        "repo": "PMS-Council",
+        "locale": "vi",
+        "word_count": 485
+    },
+    {
+        "repo": "PMS-Council",
+        "locale": "en",
+        "word_count": 336
+    },
+    {
+        "repo": "PMS-Workspace",
+        "locale": "vi",
+        "word_count": 476
+    },
+    {
+        "repo": "PMS-Workspace",
+        "locale": "en",
+        "word_count": 349
+    },
+    {
+        "repo": "PMS-DevOps",
+        "locale": "vi",
+        "word_count": 482
+    },
+    {
+        "repo": "PMS-DevOps",
+        "locale": "en",
+        "word_count": 329
+    },
+    {
+        "repo": "PMS-HRM",
+        "locale": "vi",
+        "word_count": 483
+    },
+    {
+        "repo": "PMS-HRM",
+        "locale": "en",
+        "word_count": 338
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "locale": "vi",
+        "word_count": 487
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "locale": "en",
+        "word_count": 339
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "locale": "vi",
+        "word_count": 492
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "locale": "en",
+        "word_count": 331
+    },
+    {
+        "repo": "PMS-Marketing",
+        "locale": "vi",
+        "word_count": 484
+    },
+    {
+        "repo": "PMS-Marketing",
+        "locale": "en",
+        "word_count": 339
+    },
+    {
+        "repo": "PMS-Producing",
+        "locale": "vi",
+        "word_count": 484
+    },
+    {
+        "repo": "PMS-Producing",
+        "locale": "en",
+        "word_count": 331
+    },
+    {
+        "repo": "PMS-Store",
+        "locale": "vi",
+        "word_count": 479
+    },
+    {
+        "repo": "PMS-Store",
+        "locale": "en",
+        "word_count": 336
+    },
+    {
+        "repo": "PMS-Insight",
+        "locale": "vi",
+        "word_count": 457
+    },
+    {
+        "repo": "PMS-Insight",
+        "locale": "en",
+        "word_count": 322
+    },
+    {
+        "repo": "PMS-Mailing",
+        "locale": "vi",
+        "word_count": 480
+    },
+    {
+        "repo": "PMS-Mailing",
+        "locale": "en",
+        "word_count": 342
+    },
+    {
+        "repo": "PMS-Messenger",
+        "locale": "vi",
+        "word_count": 467
+    },
+    {
+        "repo": "PMS-Messenger",
+        "locale": "en",
+        "word_count": 333
+    },
+    {
+        "repo": "PMS-Go",
+        "locale": "vi",
+        "word_count": 482
+    },
+    {
+        "repo": "PMS-Go",
+        "locale": "en",
+        "word_count": 332
+    },
+    {
+        "repo": "PMS-Premium",
+        "locale": "vi",
+        "word_count": 486
+    },
+    {
+        "repo": "PMS-Premium",
+        "locale": "en",
+        "word_count": 337
+    },
+    {
+        "repo": "PMS-Home",
+        "locale": "vi",
+        "word_count": 477
+    },
+    {
+        "repo": "PMS-Home",
+        "locale": "en",
+        "word_count": 335
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "locale": "vi",
+        "word_count": 487
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "locale": "en",
+        "word_count": 356
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "locale": "vi",
+        "word_count": 497
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "locale": "en",
+        "word_count": 357
+    },
+    {
+        "repo": "PMS-Storage",
+        "locale": "vi",
+        "word_count": 517
+    },
+    {
+        "repo": "PMS-Storage",
+        "locale": "en",
+        "word_count": 372
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "locale": "vi",
+        "word_count": 480
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "locale": "en",
+        "word_count": 344
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "locale": "vi",
+        "word_count": 476
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "locale": "en",
+        "word_count": 337
+    },
+    {
+        "repo": "PMS-Mailer",
+        "locale": "vi",
+        "word_count": 492
+    },
+    {
+        "repo": "PMS-Mailer",
+        "locale": "en",
+        "word_count": 335
+    },
+    {
+        "repo": "PMS-Relay",
+        "locale": "vi",
+        "word_count": 501
+    },
+    {
+        "repo": "PMS-Relay",
+        "locale": "en",
+        "word_count": 335
+    },
+    {
+        "repo": "PMS-Static",
+        "locale": "vi",
+        "word_count": 481
+    },
+    {
+        "repo": "PMS-Static",
+        "locale": "en",
+        "word_count": 330
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "locale": "vi",
+        "word_count": 512
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "locale": "en",
+        "word_count": 347
+    }
+]

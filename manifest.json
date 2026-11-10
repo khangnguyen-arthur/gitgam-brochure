@@ -1,0 +1,282 @@
+[
+    {
+        "repo": "PMS-Account",
+        "name": "GitGam Account",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Account/brochure",
+        "sources": [
+            "README.md",
+            "docs/account-ownership.md",
+            "docs/account-billing.md",
+            "web/src/pages/Account"
+        ]
+    },
+    {
+        "repo": "PMS-Accounting",
+        "name": "GitGam Accounting",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Accounting/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages",
+            "docs/accounting-integrations.md"
+        ]
+    },
+    {
+        "repo": "PMS-Building",
+        "name": "GitGam Building",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Building/brochure",
+        "sources": [
+            "README.md",
+            "web/src/building/catalog.js",
+            "docs/technical-register.md",
+            "docs/meter-qr.md"
+        ]
+    },
+    {
+        "repo": "PMS-Council",
+        "name": "GitGam Council",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Council/brochure",
+        "sources": [
+            "README.md",
+            "planning/domain-contract.json"
+        ]
+    },
+    {
+        "repo": "PMS-Workspace",
+        "name": "GitGam Workspace",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Workspace/brochure",
+        "sources": [
+            "web/src/route.js",
+            "web/src/pages/TaskBoard",
+            "web/src/pages/Gantt",
+            "web/src/pages/OKR",
+            "web/src/pages/Wiki"
+        ]
+    },
+    {
+        "repo": "PMS-DevOps",
+        "name": "GitGam DevOps",
+        "path": "/Volumes/Data/Project/GitGam/PMS-DevOps/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages/DefaultLayout/NavigationBar/index.jsx",
+            "web/src/pages/CICD",
+            "web/src/pages/PostAPI",
+            "web/src/pages/VMMachine"
+        ]
+    },
+    {
+        "repo": "PMS-HRM",
+        "name": "GitGam HRM",
+        "path": "/Volumes/Data/Project/GitGam/PMS-HRM/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages/HRM"
+        ]
+    },
+    {
+        "repo": "PMS-OfficeAdmin",
+        "name": "GitGam OfficeAdmin",
+        "path": "/Volumes/Data/Project/GitGam/PMS-OfficeAdmin/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages/OfficeAdmin"
+        ]
+    },
+    {
+        "repo": "PMS-HelpDesk",
+        "name": "GitGam HelpDesk",
+        "path": "/Volumes/Data/Project/GitGam/PMS-HelpDesk/brochure",
+        "sources": [
+            "domain/catalog.json",
+            "web/src/pages/Tickets",
+            "api/src/utils/hdDomain.js"
+        ]
+    },
+    {
+        "repo": "PMS-Marketing",
+        "name": "GitGam Marketing",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Marketing/brochure",
+        "sources": [
+            "domain/catalog.json",
+            "api/src/utils/mkDomain.js",
+            "web/src/pages/Automation"
+        ]
+    },
+    {
+        "repo": "PMS-Producing",
+        "name": "GitGam Producing",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Producing/brochure",
+        "sources": [
+            "domain/catalog.json",
+            "api/src/utils/prDomain.js",
+            "web/src/pages/Traceability"
+        ]
+    },
+    {
+        "repo": "PMS-Store",
+        "name": "GitGam Store",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Store/brochure",
+        "sources": [
+            "README.md",
+            "docs/store-commerce.md",
+            "docs/store-sales-operations.md",
+            "docs/websites.md"
+        ]
+    },
+    {
+        "repo": "PMS-Insight",
+        "name": "GitGam Insight",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Insight/brochure",
+        "sources": [
+            "web/src/insight/catalog.js",
+            "web/src/pages/Community",
+            "api/src/route"
+        ]
+    },
+    {
+        "repo": "PMS-Mailing",
+        "name": "GitGam Mail",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Mailing/brochure",
+        "sources": [
+            "web/src/pages/Mail/components/Sidebar.jsx",
+            "web/src/pages/Mail/components/MailServer.jsx",
+            "api/src/utils/mailingAdmin.js"
+        ]
+    },
+    {
+        "repo": "PMS-Messenger",
+        "name": "GitGam Messenger",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Messenger/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages/MessengerWorkspace.jsx",
+            "web/src/pages/Chatting/calling",
+            "web/src/pages/MeetingGuest"
+        ]
+    },
+    {
+        "repo": "PMS-Go",
+        "name": "GitGam Go",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Go/brochure",
+        "sources": [
+            "README.md",
+            "planning/domain-contract.json"
+        ]
+    },
+    {
+        "repo": "PMS-Premium",
+        "name": "GitGam Premium",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Premium/brochure",
+        "sources": [
+            "README.md",
+            "api/docs/SERVICE-MANAGER.md",
+            "api/docs/CERTIFICATES.md",
+            "api/docs/MAIL-DNS.md",
+            "web/src/pages/Status"
+        ]
+    },
+    {
+        "repo": "PMS-Home",
+        "name": "GitGam Home",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Home/brochure",
+        "sources": [
+            "README.md",
+            "web/src/pages/Home"
+        ]
+    },
+    {
+        "repo": "PMS-Desktop-App",
+        "name": "GitGam Desktop",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Desktop-App/brochure",
+        "sources": [
+            "README.md",
+            "src",
+            "test/smoke.cjs"
+        ]
+    },
+    {
+        "repo": "PMS-Mobile-App",
+        "name": "GitGam Mobile",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Mobile-App/brochure",
+        "sources": [
+            "README.md",
+            "lib/page/home/ui/home_page.dart",
+            "lib/services/web_device_permissions.dart",
+            "lib/services/notification_service.dart"
+        ]
+    },
+    {
+        "repo": "PMS-Storage",
+        "name": "GitGam Storage",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Storage/brochure",
+        "sources": [
+            "README.md",
+            "AGENTS.md",
+            "docs/content-protection.md",
+            "desktop/README.md"
+        ]
+    },
+    {
+        "repo": "PMS-FileAttach-Server",
+        "name": "GitGam FileAttach",
+        "path": "/Volumes/Data/Project/GitGam/PMS-FileAttach-Server/brochure",
+        "sources": [
+            "src/route/feature.js",
+            "src/route/project.js",
+            "src/route/avatar.js",
+            "src/route/markdown.js"
+        ]
+    },
+    {
+        "repo": "PMS-FileDocument-Server",
+        "name": "GitGam FileDocument",
+        "path": "/Volumes/Data/Project/GitGam/PMS-FileDocument-Server/brochure",
+        "sources": [
+            "src/route/document.js",
+            "src/route/drive.js",
+            "src/route/roledocument.js",
+            "src/route/favoritedocument.js"
+        ]
+    },
+    {
+        "repo": "PMS-Mailer",
+        "name": "GitGam Mailer",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Mailer/brochure",
+        "sources": [
+            "src/route/mailer.js",
+            "src/config/mail.js"
+        ]
+    },
+    {
+        "repo": "PMS-Relay",
+        "name": "GitGam Relay",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Relay/brochure",
+        "sources": [
+            "README.md",
+            "docs",
+            "src/config/relay.js"
+        ]
+    },
+    {
+        "repo": "PMS-Static",
+        "name": "GitGam Static",
+        "path": "/Volumes/Data/Project/GitGam/PMS-Static/brochure",
+        "sources": [
+            "README.md",
+            "README.txt",
+            "Resources/HelpCenter/v1.0/catalog.json"
+        ]
+    },
+    {
+        "repo": "PMS-OnPromise",
+        "name": "GitGam On-premises",
+        "path": "/Volumes/Data/Project/GitGam/PMS-OnPromise/brochure",
+        "sources": [
+            "resources/systems.json",
+            "resources/nginx",
+            "resources/pms-gateway",
+            "resources/tools",
+            "load"
+        ]
+    }
+]
